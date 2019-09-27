@@ -1,5 +1,5 @@
 {
-    "name": "valga/fbns-react",
+    "name": "enterness/fbns-react",
     "description": "A PHP client for the FBNS built on top of ReactPHP",
     "keywords": [
         "FBNS",
@@ -25,7 +25,7 @@
         "ext-mbstring": "*",
         "ext-zlib": "*",
         "evenement/evenement": "~2.0|~3.0",
-        "react/event-loop": "^0.4.3",
+        "react/event-loop": "^1.1.0",
         "react/promise": "~2.0",
         "react/socket": "~0.8",
         "binsoul/net-mqtt": "~0.2",
